@@ -1,0 +1,4 @@
+22:57:07.502 [main] ERROR o.example.TraineeManager1Application - Error in Null Value
+22:57:07.503 [main] WARN  o.example.TraineeManager1Application - This is Warning Message
+22:30:56.332 [main] ERROR o.example.TraineeManager1Application - Error in Null Value
+22:30:56.333 [main] WARN  o.example.TraineeManager1Application - This is Warning Message
